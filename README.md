@@ -8,3 +8,7 @@ Une des préocupations majeures des entreprises est de cibler sa clientèle pour
 3. Analyse Factorielle des Correspondances
 4. Analyse des Correspondances Multiples
 5. Clustering
+
+# Résultat
+
+Pour visualiser le rendu veuillez télécharger ADE.html`
